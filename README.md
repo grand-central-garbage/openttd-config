@@ -1,0 +1,2 @@
+OpenTTD config
+==============
